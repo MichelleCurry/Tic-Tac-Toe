@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lab8{
+public class TicTacToe{
 
    // Scanner for user input
    static Scanner CONSOLE = new Scanner(System.in);
